@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.12.3-alpine
 
 LABEL version="1.0.0"
 LABEL repository="https://github.com/github-actions-x/commit"
